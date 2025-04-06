@@ -30,3 +30,5 @@ off-policy: 更新的 agent 與環境互動的 agent 不是同一個
 [深度強化式學習](https://www.books.com.tw/products/0010886296?srsltid=AfmBOoqH7m7JrI0DiHocibmGptV7erGaJTgngEdrMVUx5gKSM6Q8YEeL)
 
 [掌握机器人强化学习技术](https://app.theconstruct.ai/courses/mastering-reinforcement-learning-for-robotics-286/)
+
+[Shusen Wang](https://www.youtube.com/@ShusenWang/playlists)
